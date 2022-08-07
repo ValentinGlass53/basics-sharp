@@ -1,1 +1,2 @@
-﻿Console.WriteLine("Привет, Valentin Glass");
+﻿//СТРУКТУРА ПРОЕКТА | СТРУКТУРА И ПОРЯДОК ВЫПОЛНЕНИЯ ПРОГРАММЫ | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ Урок #2
+Console.WriteLine("Привет, Valentin Glass");
