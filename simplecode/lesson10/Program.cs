@@ -1,6 +1,7 @@
 ﻿// конструкция логического выбора if else
 
-bool isInfected = false;
+//1
+/*bool isInfected = true;
 
 if (isInfected)
 {
@@ -10,4 +11,18 @@ if (isInfected)
 else
 {
     System.Console.WriteLine("Персонаж здоров");
+}
+*/
+
+//2
+
+int number = int.Parse(Console.ReadLine());
+
+if (number == 5)
+{
+    System.Console.WriteLine(number + " равно 5");
+}
+else
+{
+    System.Console.WriteLine(number + " не равно 5");
 }
